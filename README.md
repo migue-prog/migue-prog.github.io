@@ -4,7 +4,7 @@ cv online
 buenas profesores, queria comentarles que hace unos dias subi el proyecto, habia enviado un link y no pudieron acceder a la pagina. Ahora lo subi de nuevo, creo que el link esta bien
 Pero esto teniendo este problema, hoy realice unas modificaciones e intente subirlas y empece a tener estos msj y no se visualizan los cambios.
 No se si solo se guian por la pagina o tambien miran el codigo. Me gustaria si no es mucho pedir, si pueden descargar el proyecto y mirarlo, porque sino
-no van a poder ver que le alegre mas funcionalidades.
+no van a poder ver que le agregue mas funcionalidades.
 
 estos son los mensajes que me aparecen y la verdad no se a que re refieren
 
