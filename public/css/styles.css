@@ -1,14 +1,18 @@
-*{
-    box-sizing: border-box;
-    padding: 0;
+html{
+    font-family: 'Montserrat', sans-serif;
 }
 body{
     margin: 0;
     background-color: #85929E;
 }
+header {
+    background-color: #F0B27A;
+    color: #FDFEFE;
+    padding: 3rem 2rem;
+}
 .hero {
    width: 400px;
-    margin: 0 auto;
+   margin: 0 auto;
 }
 section article {
     transition: all 0.3s ease;
