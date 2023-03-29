@@ -8,35 +8,18 @@
     <title>Formulario de contacto</title>
 </head>
 <body>
-    <section>
-        <header>
-            <nav>
-                <ul>
-                    <li><a href="index.html">HOME</a></li>
-                    <li><a href="#Proyect-link">PROYECTOS</a></li>
-                    <li><a href="form.html">CONTACTO</a></li>
-                </ul>
-            </nav>
-        </header>
+    <section class="form-contacto">
+        <h2>Formulario de Contacto</h2>
+            <input class="controls" type="text" name="nombres" id="nombres" placeholder="Ingrese su Nombre">
+            <input class="controls" type="text" name="apellidos" id="apellidos" placeholder="Ingrese su Apellido">
+            <input class="controls" type="email" name="correo" id="correo" placeholder="Ingrese su Correo">
+            <textarea class="controls" name="" id="" cols="20" rows="10" placeholder="Mensaje"></textarea>
+            <p>Estoy de acuerdo con <a href="#">Terminos y Condiciones</a></p>
+            <button class="botons">
+                <input id="boton" type="submit" value="ENVIAR">
+            </button>
+    
     </section>
-    <h2>Contacta conmigo</h2>
-        <div class="form-contact">
-            <form action="" method="post">
-            <div class="form-contact-box">
-                <label>Nombre</label>
-                <input type="text">
-            </div>
-            <div class="form-contact-box">
-                <label>Asunto</label>
-                <input type="text" placeholder="Escribe aqui tu asunto">
-            </div>
-            <div class="form-contact-box">
-                <label>Mensaje</label>
-                <textarea name="" id="" cols="30" rows="10"></textarea>
-            </div>
-            <button id="boton">Enviar</button>
-            </form>
-        </div>
         <script src="./public/javascript/js-front.js"></script>
 </body>
 </html>

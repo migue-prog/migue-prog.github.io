@@ -1,6 +1,6 @@
 const botonEnviar = document.getElementById("boton");
 botonEnviar.addEventListener("mouseover", function(event){
-botonEnviar.style.background= "orange";
+botonEnviar.style.background= "blue";
 })
 
 botonEnviar.addEventListener("mouseout", function(event){
