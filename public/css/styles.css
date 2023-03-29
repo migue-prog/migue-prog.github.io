@@ -24,11 +24,14 @@ section article:hover {
 section article h1 section article p {
     margin: 1rem;
 }
+#proyect-link {
+    font-size: 4rem;
+    text-align: center;
+}
 .proyect-list{
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-
 }
 .proyect-detail{
     border:5px solid #AAB7B8;
